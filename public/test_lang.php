@@ -1,3 +1,3 @@
 <?php
-echo("test") ;
+show_source("index.php");
 ?>
